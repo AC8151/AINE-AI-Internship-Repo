@@ -70,7 +70,7 @@ def rpsls():
         else:
             clear()
             print("Wrong Input!!")
-            rps_instructions()  # User doesn't know about the game, reads instructions
+            rpsls_instructions()  # User doesn't know about the game, reads instructions
             continue
  
  
