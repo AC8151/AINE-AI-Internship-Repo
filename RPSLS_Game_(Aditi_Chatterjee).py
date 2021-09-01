@@ -1,6 +1,11 @@
 ######################################### VIP @ Aine Ai ##################################################
 ################################ Submitted by: Aditi Chatterjee ##########################################
 
+## AIM: To create a game of Rock-Paper-Scissor-Lizard-Spock
+## OBJECTIVE: This game has been developed using simple Python datastructures (dict, list, matrix), and conditional statements (if-else)
+##            This game can be played between a player and the computer
+##            A player can choose a move, seek HELP for instructions, or EXIT to quite the game altogether
+
 import random 
 import os     
 import time
